@@ -1,6 +1,6 @@
 # Olá, eu sou o José Almeida 👋
 
-Graduando em **Ciência da Computação** pela Universidade Federal Rural de Pernambuco (UFRPE) e **Técnico em Informática** formado pelo Instituto Federal de Pernambuco (IFPE).
+Graduando em **Ciência da Computação** pela Universidade Federal Rural de Pernambuco (UFAPE) e **Técnico em Informática** formado pelo Instituto Federal de Pernambuco (IFPE).
 
 Atualmente, estou focado em aprimorar os meus conhecimentos em **Desenvolvimento Back-end** e **Estruturas de Dados**, procurando oportunidades de **Estágio em Desenvolvimento de Software**.
 
