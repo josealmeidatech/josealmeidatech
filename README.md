@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o José Almeida 👋
 
-<!--
-**josealmeidatech/josealmeidatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em **Ciência da Computação** pela Universidade Federal Rural de Pernambuco (UFRPE) e **Técnico em Informática** formado pelo Instituto Federal de Pernambuco (IFPE).
 
-Here are some ideas to get you started:
+Atualmente, estou focado em aprimorar os meus conhecimentos em **Desenvolvimento Back-end**, **APIs RESTful** e **Estruturas de Dados**, procurando oportunidades de **Estágio em Desenvolvimento de Software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stacks & Tecnologias
+
+- **Linguagens de Programação:** Java, C, Python, JavaScript, PHP, SQL
+- **Back-end & Arquitetura:** Spring Boot, RESTful APIs, Node.js, POO (Programação Orientada a Objetos)
+- **Front-end & Web:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- **Bancos de Dados:** PostgreSQL, MySQL (Modelagem e Consultas)
+- **Ferramentas & Ambiente:** Git, GitHub, Linux (Zorin OS), VS Code
+
+---
+
+### 🎓 Formação Académica & Certificações
+
+- **Bacharelado em Ciência da Computação** — UFRPE
+- **Técnico em Informática Integrado ao Ensino Médio** — IFPE
+- 📜 *Oficina: Desmistificando o Java — Criação de APIs RESTful com Spring Boot* (IFPE)
+- 📜 *Minicurso: Como Criar um ChatBot do Zero* (IFPE)
+
+---
+
+### 📌 Destaques & Repositórios Principais
+
+- 🔹 **[AED-1-Segunda-VA](https://github.com/josealmeidatech/AED-1-Segunda-VA):** Implementações e algoritmos em C desenvolvidos durante a disciplina de Algoritmos e Estruturas de Dados 1 na UFRPE.
+- 🔹 **[API RESTful Spring Boot]:** Projeto prático focado na construção de APIs escaláveis utilizando Java e Spring Boot.
+- 🔹 **[Projetos Web & Sistemas]:** Aplicações desenvolvidas em equipa com modelagem de dados e integração Front-end/Back-end.
+
+---
+
+### 📫 Contactos & Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-almeida)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealmeidatech)
