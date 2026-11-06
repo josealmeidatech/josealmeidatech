@@ -12,7 +12,7 @@ Atualmente, estou focado em aprimorar os meus conhecimentos em **Desenvolvimento
 - **Back-end & Arquitetura:** Spring Boot, RESTful APIs, Node.js, POO (Programação Orientada a Objetos)
 - **Front-end & Web:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
 - **Bancos de Dados:** PostgreSQL, MySQL (Modelagem e Consultas)
-- **Ferramentas & Ambiente:** Git, GitHub, Linux (Zorin OS), VS Code
+- **Ferramentas & Ambiente:** Git, GitHub, Linux, VS Code
 
 ---
 
@@ -35,5 +35,5 @@ Atualmente, estou focado em aprimorar os meus conhecimentos em **Desenvolvimento
 
 ### 📫 Contactos & Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-almeida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/josé-almeida-de-freitas-neto)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealmeidatech)
