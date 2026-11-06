@@ -27,7 +27,7 @@ Atualmente, estou focado em aprimorar os meus conhecimentos em **Desenvolvimento
 
 ### 📌 Destaques & Repositórios Principais
 
-- 🔹 **[AED-1-Segunda-VA](https://github.com/josealmeidatech/AED-1-Segunda-VA):** Implementações e algoritmos em C desenvolvidos durante a disciplina de Algoritmos e Estruturas de Dados 1 na UFRPE.
+- 🔹 **[AED-1-Segunda-VA](https://github.com/josealmeidatech/AED-1-Segunda-VA):** Implementações em C desenvolvidas para a disciplina de Algoritmos e Estruturas de Dados 1 (UFAPE).
 - 🔹 **[API RESTful Spring Boot]:** Projeto prático focado na construção de APIs escaláveis utilizando Java e Spring Boot.
 - 🔹 **[Projetos Web & Sistemas]:** Aplicações desenvolvidas em equipa com modelagem de dados e integração Front-end/Back-end.
 
