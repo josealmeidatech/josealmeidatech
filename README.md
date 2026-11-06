@@ -28,6 +28,10 @@ Atualmente, estou focado em aprimorar os meus conhecimentos em **Desenvolvimento
 ### 📌 Destaques & Repositórios Principais
 
 - 🔹 **[AED-1-Segunda-VA](https://github.com/josealmeidatech/AED-1-Segunda-VA):** Implementações em C desenvolvidas para a disciplina de Algoritmos e Estruturas de Dados 1 (UFAPE).
+- 🏋️‍♂️ **[Sistema de Gestão de Academia](https://github.com/josealmeidatech/academia):** Aplicação Web Full-Stack para gerenciamento de rotinas de treino e alunos.  
+  - **Back-end:** Java, Spring Boot, PostgreSQL, REST API  
+  - **Front-end:** React.js, JavaScript, Tailwind CSS  
+  - **Recursos:** Modelagem relacional, CRUD completo de alunos e instrutores, controle de acesso e integração via API.
 - 🔹 **[API RESTful Spring Boot]:** Projeto prático focado na construção de APIs escaláveis utilizando Java e Spring Boot.
 - 🔹 **[Projetos Web & Sistemas]:** Aplicações desenvolvidas em equipa com modelagem de dados e integração Front-end/Back-end.
 
