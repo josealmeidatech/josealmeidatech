@@ -1,4 +1,4 @@
-# Olá, eu sou o José Almeida 👋
+# Olá, eu sou o José Almeida de Freitas Neto👋
 
 Graduando em **Ciência da Computação** pela Universidade Federal Rural de Pernambuco (UFAPE) e **Técnico em Informática** formado pelo Instituto Federal de Pernambuco (IFPE).
 
